@@ -47,6 +47,7 @@
 @endsection --}}
 
 @extends('layouts.main-site-layout')
+@section('page-title', 'Landlord Reset Password')
 @section('content')
         <!--================Breadcrumb Area =================-->
         <section class="breadcrumb_area">

@@ -1,4 +1,5 @@
 @extends('layouts.main-site-layout')
+@section('page-title', 'Landlord Login')
 @section('content')
         <!--================Breadcrumb Area =================-->
         <section class="breadcrumb_area">
